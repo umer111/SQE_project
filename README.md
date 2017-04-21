@@ -1,2 +1,0 @@
-# SQE_project
-In past few days medical store union announce strike for their personal benefits from  government. Due to this act many people suffer so much and unfortunately a kid died due to absence of required medicine so, Here needs a web application to reach out to the community and also to serve and support the general public in the field of medical pharmacy. Furthermore, general market needs a web application that can be maintained by our team members so the services can be delivered successfully.
